@@ -26,6 +26,24 @@ Performance was measured under controlled load to evaluate:
 
 ---
 
+## 🔗 Related Projects
+
+### 🏛️ Confy (Conference Management App) – Microservices Architecture
+
+This repository contains the **microservices-based version** of a backend application created as part of my master's thesis project focused on **comparing performance between monolithic and microservices architectures**.
+
+📌 **[Microservices Version Repository](https://github.com/MichalZdanuk/ConfyMicroservices)**
+
+---
+
+### 🏛️ Confy (Conference Management App) – Monolithic Architecture
+
+This repository contains the **monolithic version** of a backend application created as part of my master's thesis project focused on **comparing performance between monolithic and microservices architectures**.
+
+📌 **[Monolithic Version Repository](https://github.com/MichalZdanuk/ConfyMonolith)**
+
+---
+
 ## 📄 License
 
 This project is part of an academic research thesis and intended for educational purposes.
